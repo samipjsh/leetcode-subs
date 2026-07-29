@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/samipjsh/leetcode-subs/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/samipjsh/leetcode-subs/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samipjsh/leetcode-subs/tree/master/0349-intersection-of-two-arrays) |
+| [0368-largest-divisible-subset](https://github.com/samipjsh/leetcode-subs/tree/master/0368-largest-divisible-subset) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/samipjsh/leetcode-subs/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/samipjsh/leetcode-subs/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/samipjsh/leetcode-subs/tree/master/0268-missing-number) |
+| [0368-largest-divisible-subset](https://github.com/samipjsh/leetcode-subs/tree/master/0368-largest-divisible-subset) |
 ## Recursion
 |  |
 | ------- |
@@ -83,8 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/samipjsh/leetcode-subs/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samipjsh/leetcode-subs/tree/master/0349-intersection-of-two-arrays) |
+| [0368-largest-divisible-subset](https://github.com/samipjsh/leetcode-subs/tree/master/0368-largest-divisible-subset) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/samipjsh/leetcode-subs/tree/master/0278-first-bad-version) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/samipjsh/leetcode-subs/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
