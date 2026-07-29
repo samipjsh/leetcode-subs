@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/samipjsh/leetcode-subs/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/samipjsh/leetcode-subs/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/samipjsh/leetcode-subs/tree/master/0368-largest-divisible-subset) |
+| [0415-add-strings](https://github.com/samipjsh/leetcode-subs/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/samipjsh/leetcode-subs/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samipjsh/leetcode-subs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/samipjsh/leetcode-subs/tree/master/0058-length-of-last-word) |
+| [0415-add-strings](https://github.com/samipjsh/leetcode-subs/tree/master/0415-add-strings) |
 ## Trie
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/samipjsh/leetcode-subs/tree/master/0368-largest-divisible-subset) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/samipjsh/leetcode-subs/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
