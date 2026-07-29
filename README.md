@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samipjsh/leetcode-subs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/samipjsh/leetcode-subs/tree/master/0058-length-of-last-word) |
 | [0415-add-strings](https://github.com/samipjsh/leetcode-subs/tree/master/0415-add-strings) |
+| [0796-rotate-string](https://github.com/samipjsh/leetcode-subs/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samipjsh/leetcode-subs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/samipjsh/leetcode-subs/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
