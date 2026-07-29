@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/samipjsh/leetcode-subs/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samipjsh/leetcode-subs/tree/master/0628-maximum-product-of-three-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/samipjsh/leetcode-subs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/samipjsh/leetcode-subs/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samipjsh/leetcode-subs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/samipjsh/leetcode-subs/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/samipjsh/leetcode-subs/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/samipjsh/leetcode-subs/tree/master/3536-maximum-product-of-two-digits) |
 ## Interactive
 |  |
 | ------- |
