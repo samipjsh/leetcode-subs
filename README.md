@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/samipjsh/leetcode-subs/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/samipjsh/leetcode-subs/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samipjsh/leetcode-subs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0999-available-captures-for-rook](https://github.com/samipjsh/leetcode-subs/tree/master/0999-available-captures-for-rook) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,4 +106,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/samipjsh/leetcode-subs/tree/master/0415-add-strings) |
+| [0999-available-captures-for-rook](https://github.com/samipjsh/leetcode-subs/tree/master/0999-available-captures-for-rook) |
+## Matrix
+|  |
+| ------- |
+| [0999-available-captures-for-rook](https://github.com/samipjsh/leetcode-subs/tree/master/0999-available-captures-for-rook) |
 <!---LeetCode Topics End-->
