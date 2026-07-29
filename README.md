@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/samipjsh/leetcode-subs/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/samipjsh/leetcode-subs/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samipjsh/leetcode-subs/tree/master/0349-intersection-of-two-arrays) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/samipjsh/leetcode-subs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/samipjsh/leetcode-subs/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/samipjsh/leetcode-subs/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samipjsh/leetcode-subs/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/samipjsh/leetcode-subs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/samipjsh/leetcode-subs/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/samipjsh/leetcode-subs/tree/master/0796-rotate-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/samipjsh/leetcode-subs/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/samipjsh/leetcode-subs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
 | ------- |
@@ -129,4 +132,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/samipjsh/leetcode-subs/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/samipjsh/leetcode-subs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/samipjsh/leetcode-subs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
