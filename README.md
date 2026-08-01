@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samipjsh/leetcode-subs/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samipjsh/leetcode-subs/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/samipjsh/leetcode-subs/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/samipjsh/leetcode-subs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samipjsh/leetcode-subs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0999-available-captures-for-rook](https://github.com/samipjsh/leetcode-subs/tree/master/0999-available-captures-for-rook) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samipjsh/leetcode-subs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samipjsh/leetcode-subs/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/samipjsh/leetcode-subs/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/samipjsh/leetcode-subs/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/samipjsh/leetcode-subs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samipjsh/leetcode-subs/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/samipjsh/leetcode-subs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/samipjsh/leetcode-subs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/samipjsh/leetcode-subs/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/samipjsh/leetcode-subs/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/samipjsh/leetcode-subs/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/samipjsh/leetcode-subs/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/samipjsh/leetcode-subs/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/samipjsh/leetcode-subs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/samipjsh/leetcode-subs/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
