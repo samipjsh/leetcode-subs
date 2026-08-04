@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/samipjsh/leetcode-subs/tree/master/0999-available-captures-for-rook) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samipjsh/leetcode-subs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/samipjsh/leetcode-subs/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3731-find-missing-elements](https://github.com/samipjsh/leetcode-subs/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/samipjsh/leetcode-subs/tree/master/0349-intersection-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samipjsh/leetcode-subs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/samipjsh/leetcode-subs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/samipjsh/leetcode-subs/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samipjsh/leetcode-subs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/samipjsh/leetcode-subs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/samipjsh/leetcode-subs/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/samipjsh/leetcode-subs/tree/master/3731-find-missing-elements) |
 ## Interactive
 |  |
 | ------- |
